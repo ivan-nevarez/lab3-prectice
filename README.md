@@ -1,3 +1,3 @@
-# lab3-prectice
+# lab3-practice
 
 Test
